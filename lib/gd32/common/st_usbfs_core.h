@@ -1,0 +1,1 @@
+../../stm32/common/st_usbfs_core.h
