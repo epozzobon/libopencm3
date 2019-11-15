@@ -36,6 +36,7 @@ ARFLAGS		= rcs
 OBJS += flash.o flash_common_all.o flash_common_f.o flash_common_f01.o
 OBJS += gpio_common_all.o gpio_common_f0234.o
 OBJS += rcc.o rcc_common_all.o
+OBJS += spi_common_v1.o spi_common_all.o
 OBJS += usb.o usb_control.o usb_standard.o usb_msc.o
 OBJS += st_usbfs_core.o st_usbfs_v1.o
 

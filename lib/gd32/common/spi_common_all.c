@@ -1,0 +1,1 @@
+../../stm32/common/spi_common_all.c
